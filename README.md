@@ -1,2 +1,2 @@
 # hello-world1
-this is a repository
+I was born in Indonesia and I like learning about new things.
